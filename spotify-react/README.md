@@ -1,6 +1,8 @@
 # Spootify Coding Challenge 🎧
 
-### Difficulty: Hard | Time required: ~ 30-45 minutes
+### Difficulty: All depends at you | Time required: 1 days 
+
+### Delivery date : 22 October 2020 23h
 
 # Goals/Outcomes ✨
 - To test knowledge of consuming APIs and handling responses
@@ -17,6 +19,7 @@
 - Fetch and display *Browse* genres
   - Use the API path `categories`
 - Loading state/UI *(optional, current UX is already clean)*
+- Make the project working with docker 
 
 # Think about 💡
 - Taking a look at the Spotify API documentation
@@ -32,3 +35,7 @@
 
 ![screenshot-desktop](https://puu.sh/GwPLE/3be580156a.png)
 ![screenshot-mobile](https://puu.sh/GwPLS/0bcb566d23.png)
+
+
+
+### Good luck 
