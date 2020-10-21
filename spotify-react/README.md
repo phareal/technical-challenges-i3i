@@ -1,8 +1,8 @@
-# Spootify Coding Challenge 🎧
+# Spotify Coding Challenge 🎧
 
 ### Difficulty: All depends at you | Time required: 1 days 
 
-### Delivery date : 22 October 2020 23h
+### Delivery date : 22 October 2020 before 23h
 
 # Goals/Outcomes ✨
 - To test knowledge of consuming APIs and handling responses
